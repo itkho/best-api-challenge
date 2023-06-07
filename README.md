@@ -1,6 +1,6 @@
 # Best API challenge
 
-> Quelle sera la team à afficher en premier SON logo ? 
+> Quelle sera la team à afficher en premier SON logo à l'écran ? 
 
 
 ## Objectif :
