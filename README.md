@@ -1,6 +1,6 @@
 # Best API challenge
 
-> Qui aura la meilleure API ? 
+> Quelle sera la team à afficher en premier SON logo ? 
 
 
 ## Objectif :
